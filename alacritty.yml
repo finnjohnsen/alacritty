@@ -1,0 +1,25 @@
+shell:
+  program: /bin/zsh
+  args:
+    - -l
+    - -c
+    - "tmux"
+
+font:
+#  normal:
+#    family: "JetBrainsMono Nerd Font"
+  size: 18
+#  glyph_offset:
+#    y: 1
+#  use_thin_strokes: true
+
+window:
+  dimensions:
+    columns: 180
+    lines: 40
+
+
+
+
+
+  
