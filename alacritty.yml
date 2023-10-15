@@ -6,17 +6,17 @@ shell:
     - "tmux"
 
 font:
+# lister alle fontene dine: >fc-list 
   size: 12
   normal:
-    family: JetBrains Mono
-    style: ExtraLight
+    family: JetBrains Mono Nerd Font
+    style: Light
   bold:
-    family: JetBrains Mono
+    family: JetBrains Mono Nerd Font
     style: Bold
   italic:
-    family: JetBrains Mono
+    family: JetBrains Mono NerdFont
     style: Italic
-  
 
 window:
   dimensions:
