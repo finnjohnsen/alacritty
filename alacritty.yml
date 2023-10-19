@@ -6,8 +6,8 @@ shell:
     - "tmux"
 
 font:
-# lister alle fontene dine: >fc-list 
-  size: 13
+# fc-list - lister alle fontene 
+  size: 15
   normal:
     family: JetBrainsMono Nerd Font
     style: Light
@@ -20,8 +20,8 @@ font:
 
 window:
   dimensions:
-    columns: 180
-    lines: 40
+    columns: 160
+    lines: 50
 
 # doc:
 # https://github.com/tmcdonell/config-alacritty/blob/master/alacritty.yml
