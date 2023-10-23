@@ -18,11 +18,25 @@ font:
     family: JetBrainsMono Nerd Font
     style: Italic
 
+colors:
+  primary: # kun testet i dark mode og ser fin ut der
+    foreground: '0xffffff'
+    background: '0x4d4d4c'
+    
 window:
   dimensions:
-    columns: 160
-    lines: 50
+    columns: 180
+    lines: 40
+  opacity: 0.96 # veldig subtil opacity ❤️
 
+scrolling:
+  history: 0 # scrolling er ikke alacritty sin business
+
+bell:
+  animation: EaseOutExpo
+  color: '0x0a0a0a'
+  duration: 200
+    
 # doc:
 # https://github.com/tmcdonell/config-alacritty/blob/master/alacritty.yml
   
