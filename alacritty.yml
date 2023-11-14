@@ -3,7 +3,7 @@ shell:
   args:
     - -l
     - -c
-    - "tmux"
+    - "tmux new-session -A -s main"
 
 font:
 # fc-list - lister alle fontene 
