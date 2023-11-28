@@ -22,7 +22,7 @@ window:
   dimensions:
     columns: 180
     lines: 40
-  opacity: 0.96 # veldig subtil opacity ❤️
+  opacity: 1 # veldig subtil opacity ❤️
 
 scrolling:
   history: 0 # scrolling er ikke alacritty sin business
