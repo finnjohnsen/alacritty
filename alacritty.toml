@@ -86,3 +86,11 @@ opacity = 1
 [window.dimensions]
 columns = 180
 lines = 40
+
+[selection]
+save_to_clipboard=true
+
+[mouse]
+bindings = [
+         { mouse = "Middle", action = "PasteSelection" }  
+]
